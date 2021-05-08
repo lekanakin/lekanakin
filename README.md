@@ -7,7 +7,7 @@
 <div size='20px'> Hi! My name is 'Lekan Akinsande. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://giphy.com/embed/sRGDyT4PcjP7W2sWsf" width = 100px></h2>
+<h2> About Me</h2>
 
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
