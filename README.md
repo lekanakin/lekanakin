@@ -17,7 +17,7 @@
 
 - 🌱 I currently lead the Technical & Consulting Team at Africa's foremost Artificial Intelligence learning community and solution delivery organisation, @DataScienceNIG
 
-- 👯 I’m open to collaborating on Projects and StartUps.  
+- 👯 I’m open to collaborating on Projects and StartUps for business and social good.  
 
 - 💬 Talk to me about Natural Language Processing, Computer Vision, Geospatial Analytics, Data Science, Robotics Process Automation, Business Analytics, Data Engineering, Digital Transformation, Open Source.
 
