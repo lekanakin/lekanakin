@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://oecddevelopmentdialogue.files.wordpress.com/2021/02/africa-artficial-intelligence-1.jpg" alt="cover" />
-</div>
-
 <h1> Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
@@ -11,7 +7,8 @@
 <div size='20px'> Hi! My name is 'Lekan Akinsande. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://i.gifer.com/6FX.gif" width = 100px></h2>
+<h2> About Me <img src = "https://giphy.com/embed/sRGDyT4PcjP7W2sWsf" width = 100px></h2>
+
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -49,7 +46,6 @@
 
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
-![Metrics](https://metrics.lecoq.io/lekanakin?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
 ## My GitHub Stats 📊
 <a href="https://github.com/lekanakin/github-readme-stats">
