@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**lekanakin/lekanakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <div align="center">
 <img width="100%" height = "250px" src="https://github.com/lekanakin/mP/blob/main/IMG_0139.jpg" alt="cover" />
 </div>
