@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on raising 1 million Artificial Intelligence talents and building Intelligent Systems for social and business good.
+- 🔭 I’m currently working on raising 1 million Artificial Intelligence talents, and building Intelligent Systems for social and business good.
 
 - 🌱 I currently lead the Technical & Consulting Team at Africa's foremost Artificial Intelligence learning community and solution delivery organisation, @DataScienceNIG
 
