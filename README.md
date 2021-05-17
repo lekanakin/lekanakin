@@ -4,7 +4,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=lekanakin.lekanakin)
 
 </p>
-<div size='20px'> Hi! My name is 'Lekan Akinsande. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is 'Lekan Akinsande. I am an Artificial Intelligence Board of America (ARTiBA™) certified Artificial Intelligence Engineer. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me</h2>
@@ -13,7 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Building Intelligent Systems for social good and digital transformation.
+- 🔭 I’m currently working on raising 1 million Artificial Intelligence talents and building Intelligent Systems for social and business good.
 
 - 🌱 I currently lead the Technical & Consulting Team at Africa's foremost Artificial Intelligence learning community and solution delivery organisation, @DataScienceNIG
 
