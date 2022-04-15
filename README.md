@@ -13,11 +13,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on raising 1 million Artificial Intelligence talents, and building Intelligent Systems for social and business good.
-
-- 🌱 I currently lead the Technical & Consulting Team at Africa's foremost Artificial Intelligence learning community and solution delivery organisation, @DataScienceNIG
-
-- 👯 I’m open to collaborating on Projects and StartUps for business and social good.  
+- 🔭 I have been given a gift: an opportunity to make a difference in the lives of others. I am honoured, I feel privileged and I take my responsibility seriously.
 
 - 💬 Talk to me about Natural Language Processing, Computer Vision, Geospatial Analytics, Data Science, Robotics Process Automation, Business Analytics, Data Engineering, Digital Transformation, Open Source.
 
